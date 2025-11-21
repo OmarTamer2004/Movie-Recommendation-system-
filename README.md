@@ -89,7 +89,8 @@ If an exact match isn’t found, difflib.get_close_matches helps find the closes
 Top 30 most similar movies are displayed.
 
 🧱 System Architecture
-                ┌──────────────────────────┐
+
+                                ┌──────────────────────────┐
                 │     movies.csv dataset   │
                 └──────────────┬───────────┘
                                │
@@ -112,6 +113,8 @@ Top 30 most similar movies are displayed.
                 └──────────────┬───────────────┘
                                │
                    TOP 30 Recommended Movies
+
+             
 
 📊 Dataset Information
 
